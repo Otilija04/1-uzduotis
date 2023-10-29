@@ -1,2 +1,3 @@
-# 1.2-uzduotis
-Pirma objektinio programavimo užduotis 2-o kurso duomenų mokslui.
+Sukurta lib.cpp, nes nebuvo.
+Atskirtos funkcijos, kurios kuria failus ir rusiuoja studentus
+pridetos vidutines spartos
