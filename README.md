@@ -1,3 +1,3 @@
 Sukurta lib.cpp, nes nebuvo.
-Atskirtos funkcijos, kurios kuria failus ir rusiuoja studentus
-pridetos vidutines spartos
+Atskirtos funkcijos, kurios kuria failus ir rusiuoja studentus.
+pridetos vidutines spartos.
